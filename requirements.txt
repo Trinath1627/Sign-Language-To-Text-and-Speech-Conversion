@@ -1,7 +1,8 @@
 numpy
 opencv-python
-tensorflow
+tensorflow==2.12.0
 keras
 cvzone
 pillow
 tk
+
