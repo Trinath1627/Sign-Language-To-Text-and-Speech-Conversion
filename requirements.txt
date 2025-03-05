@@ -1,9 +1,8 @@
 numpy
-opencv-python
+opencv-contrib-python-headless
 tensorflow==2.12.0
 keras
 cvzone
 pillow
-tk
 streamlit
 
