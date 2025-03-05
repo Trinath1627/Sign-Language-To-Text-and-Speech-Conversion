@@ -5,4 +5,5 @@ keras
 cvzone
 pillow
 tk
+streamlit
 
